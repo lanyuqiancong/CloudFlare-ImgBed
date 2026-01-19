@@ -93,7 +93,7 @@
                 const t = document.documentElement;
                 e ? t.classList.add("dark") : t.classList.remove("dark")
             }, U = e => {
-                document.title = e?.siteTitle || "Sanyue ImgHub"
+                document.title = e?.siteTitle || "NaixuRz Pan"
             }, S = (e, t) => {
                 const o = document.querySelectorAll('link[rel="icon"], link[rel="apple-touch-icon"], link[rel="mask-icon"]');
                 o.forEach(e => e.remove());
